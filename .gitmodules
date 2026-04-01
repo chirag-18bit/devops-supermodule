@@ -1,0 +1,6 @@
+[submodule "gitops-nginx-demo"]
+	path = gitops-nginx-demo
+	url = https://github.com/chirag-18bit/gitops-nginx-demo.git
+[submodule "circle-ci-demo"]
+	path = circle-ci-demo
+	url = https://github.com/chirag-18bit/circle-ci-demo.git
